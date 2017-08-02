@@ -1,0 +1,15 @@
+.column1 {
+  width: 300px;
+  float: left;
+  background-color: yellow
+}
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: orange
+}
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: red
+}
