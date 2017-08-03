@@ -1,34 +1,39 @@
 .overall {
   background-color: #48D1CC;
+  float: left;
+  text-align: center;
 }
 
-.column1 { s
-  width: 300px;
+div {
+  width: 27%;
+  height: 700px;
   float: left;
   text-align: center;
   border-style: solid;
   border-color: yellow;
   margin: 12px;
-  padding: 4px;
+  padding: 6px;
+}
+
+.column1 {
+
 }
 
 .column2 {
-  width: 300px;
-  float: left;
-  text-align: center;
   background-color: #FF69B4;
-  border-style: solid;
-  border-color: yellow;
-  margin: 12px;
-  padding: 4px;
 }
 
 .column3 {
-  width: 300px;
-  float: left;
-  text-align: center;
-  border-style: solid;
-  border-color: yellow;
-  margin: 12px;
-  padding: 4px;
+
 }
+
+h3 {
+  color: #FF69B4;
+}
+
+.column2 h3 {
+   color: #48D1CC;
+ }
+ h1 {
+   color: yellow;
+ }
